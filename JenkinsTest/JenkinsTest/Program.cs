@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("試しに追加１");
             Console.WriteLine("試しに追加2");
+            Console.WriteLine("試しに追加3");
         }
     }
 }
